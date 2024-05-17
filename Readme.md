@@ -69,10 +69,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p>
     <p>&nbsp&nbsp&nbspDuda Duarte<br>
     &nbsp&nbsp&nbsp
-    <a href="https://(https://github.com/dudaduarte07)">
+    <a href="https://https://github.com/dudaduarte07">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-dudadepauladuarte">LinkedIn</a>&nbsp;|&nbsp;</p>
+    <a href="www.linkedin.com/in/dudadepauladuarte">LinkedIn</a>&nbsp;|&nbsp;</p>
 <br/><br/>
 <p>
 
